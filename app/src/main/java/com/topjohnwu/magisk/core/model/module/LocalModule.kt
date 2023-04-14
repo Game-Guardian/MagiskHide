@@ -29,12 +29,12 @@ data class LocalModule(
     private val removeFile = RootUtils.fs.getFile(path, "remove")
     private val disableFile = RootUtils.fs.getFile(path, "disable")
     private val updateFile = RootUtils.fs.getFile(path, "update")
-    private val riruFolder = RootUtils.fs.getFile(path, "riru")
+    private val revrFolder = RootUtils.fs.getFile(path, "revr")
     private val zygiskFolder = RootUtils.fs.getFile(path, "zygisk")
     private val unloaded = RootUtils.fs.getFile(zygiskFolder, "unloaded")
 
     val updated: Boolean get() = updateFile.exists()
-    val isRiru: Boolean get() = (id == "riru-core") || riruFolder.exists()
+    val isRevr: Boolean get() = (id == "revr-core") || revrFolder.exists()
     val isZygisk: Boolean get() = zygiskFolder.exists()
     val zygiskUnloaded: Boolean get() = unloaded.exists()
 
