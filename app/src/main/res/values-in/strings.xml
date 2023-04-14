@@ -109,7 +109,7 @@
     <string name="module_state_restore">Pulihkan</string>
     <string name="module_action_install_external">Pasang dari penyimpanan</string>
     <string name="update_available">Pembaruan tersedia</string>
-    <string name="suspend_text_riru">Modul ditangguhkan karena %1$s diaktifkan</string>
+    <string name="suspend_text_revr">Modul ditangguhkan karena %1$s diaktifkan</string>
     <string name="suspend_text_zygisk">Modul ditangguhkan karena %1$s tidak diaktifkan</string>
     <string name="zygisk_module_unloaded">Modul Zygisk tidak dimuat karena ketidakcocokan</string>
     <string name="module_empty">Tidak ada modul terpasang</string>
