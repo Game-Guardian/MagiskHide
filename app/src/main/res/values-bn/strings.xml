@@ -108,7 +108,7 @@
     <string name="module_state_restore">পুনরুদ্ধার করুন</string>
     <string name="module_action_install_external">স্টোরেজ থেকে ইনস্টল করুন</string>
     <string name="update_available">আপডেট উপলব্ধ</string>
-    <string name="suspend_text_riru">মডিউল সাসপেন্ড করা হয়েছে কারণ %1$s সক্ষম হয়েছে৷</string>
+    <string name="suspend_text_revr">মডিউল সাসপেন্ড করা হয়েছে কারণ %1$s সক্ষম হয়েছে৷</string>
     <string name="suspend_text_zygisk">মডিউল সাসপেন্ড করা হয়েছে কারণ %1$s সক্ষম করা নেই৷</string>
     <string name="zygisk_module_unloaded">অসামঞ্জস্যতার কারণে জাইগিস্ক মডিউল লোড করা হয়নি</string>
     <string name="module_empty">কোন মডিউল ইনস্টল করা নেই</string>
