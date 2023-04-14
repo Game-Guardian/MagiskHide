@@ -109,7 +109,7 @@
     <string name="module_state_restore">रिस्टोर करें</string>
     <string name="module_action_install_external">स्टोरेज से इनस्टॉल करें</string>
     <string name="update_available">अपडेट उपलब्ध</string>
-    <string name="suspend_text_riru">%1$s सक्रिय होने के कारण मॉड्यूल निलंबित</string>
+    <string name="suspend_text_revr">%1$s सक्रिय होने के कारण मॉड्यूल निलंबित</string>
     <string name="suspend_text_zygisk">%1$s अक्षम होने के कारण मॉड्यूल निलंबित</string>
     <string name="zygisk_module_unloaded">Zygisk मॉड्यूल असंगतता के कारण लोड होने में असमर्थ</string>
     <string name="module_empty">कोई मॉड्यूल इंस्टॉल्ड नहीं</string>
