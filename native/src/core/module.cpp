@@ -377,8 +377,8 @@ static void collect_modules(bool open_zygisk) {
 
         module_info info;
         if (zygisk_enabled) {
-            // Riru and its modules are not compatible with zygisk
-            if (entry->d_name == "riru-core"sv || faccessat(modfd, "riru", F_OK, 0) == 0) {
+            // Revr and its modules are not compatible with zygisk
+            if (entry->d_name == "revr-core"sv || faccessat(modfd, "revr", F_OK, 0) == 0) {
                 LOGI("%s: ignore\n", entry->d_name);
                 return;
             }
