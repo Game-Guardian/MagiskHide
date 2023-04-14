@@ -109,7 +109,7 @@
     <string name="module_state_restore">Przywróć</string>
     <string name="module_action_install_external">Zainstaluj z pamięci</string>
     <string name="update_available">Dostępna aktualizacja</string>
-    <string name="suspend_text_riru">Moduł uśpiony ponieważ %1$s jest włączony</string>
+    <string name="suspend_text_revr">Moduł uśpiony ponieważ %1$s jest włączony</string>
     <string name="suspend_text_zygisk">Moduł uśpiony ponieważ %1$s jest wyłączony</string>
     <string name="zygisk_module_unloaded">Moduł Zygisk nie załadowany ze względu na niekompatybilność</string>
     <string name="module_empty">Żaden moduł nie jest zainstalowany</string>
