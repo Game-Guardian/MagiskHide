@@ -109,7 +109,7 @@
     <string name="module_state_restore">Geri yükle</string>
     <string name="module_action_install_external">Depolamadan yükle</string>
     <string name="update_available">Güncelleme Mevcut</string>
-    <string name="suspend_text_riru">%1$s etkinleştirildiği için modül askıya alındı</string>
+    <string name="suspend_text_revr">%1$s etkinleştirildiği için modül askıya alındı</string>
     <string name="suspend_text_zygisk">%1$s etkin olmadığı için modül askıya alındı</string>
     <string name="zygisk_module_unloaded">Uyumsuzluk nedeniyle Zygisk modülü yüklenmedi</string>
     <string name="module_empty">Yüklü modül yok</string>
