@@ -109,7 +109,7 @@
     <string name="module_state_restore">Obnovit</string>
     <string name="module_action_install_external">Instalace z úložiště</string>
     <string name="update_available">Dostupná aktualizace</string>
-    <string name="suspend_text_riru">Modul pozastaven, protože je povolen %1$s</string>
+    <string name="suspend_text_revr">Modul pozastaven, protože je povolen %1$s</string>
     <string name="suspend_text_zygisk">Modul pozastaven, protože %1$s není povoleno</string>
     <string name="zygisk_module_unloaded">Modul Zygisk nebyl načten z důvodu nekompatibility</string>
     <string name="module_empty">Není nainstalován žádný modul</string>
