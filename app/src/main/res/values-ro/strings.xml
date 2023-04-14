@@ -109,7 +109,7 @@
     <string name="module_state_restore">Restaurează</string>
     <string name="module_action_install_external">Instalează din spațiul de stocare</string>
     <string name="update_available">Actualizare disponibilă</string>
-    <string name="suspend_text_riru">Modul suspendat deoarece %1$s este activat</string>
+    <string name="suspend_text_revr">Modul suspendat deoarece %1$s este activat</string>
     <string name="suspend_text_zygisk">Modul suspendat deoarece %1$s nu este activat</string>
     <string name="zygisk_module_unloaded">Modulul Zygisk nu a fost încărcat din cauza incompatibilității</string>
     <string name="module_empty">Niciun modul instalat</string>
