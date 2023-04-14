@@ -100,7 +100,7 @@
     <string name="module_state_restore">Restaurar</string>
     <string name="module_action_install_external">Instalar dende l\'almacenamientu</string>
     <string name="update_available">Hai un anovamientu disponible</string>
-    <string name="suspend_text_riru">Suspendióse\'l módulu porque s\'activó «%1$s»</string>
+    <string name="suspend_text_revr">Suspendióse\'l módulu porque s\'activó «%1$s»</string>
     <string name="suspend_text_zygisk">Suspendióse\'l módulu porque nun s\'activó «%1$s»</string>
     <string name="zygisk_module_unloaded">El módulu de Zygisk nun cargó pola mor d\'haber incompatibilidaes</string>
     <string name="module_empty">Nun hai nengún módulu instaláu</string>
