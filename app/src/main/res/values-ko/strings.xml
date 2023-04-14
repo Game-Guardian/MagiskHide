@@ -108,7 +108,7 @@
     <string name="module_state_restore">복구</string>
     <string name="module_action_install_external">저장소에서 설치</string>
     <string name="update_available">업데이트 가능</string>
-    <string name="suspend_text_riru">%1$s 가 활성화 되어있기 때문에 모듈이 중단되었습니다</string>
+    <string name="suspend_text_revr">%1$s 가 활성화 되어있기 때문에 모듈이 중단되었습니다</string>
     <string name="suspend_text_zygisk">%1$s 가 비활성화 되어있기 때문에 모듈이 중단되었습니다</string>
     <string name="zygisk_module_unloaded">호환성 문제로 인해 Zygisk 모듈이 로드되지 않았습니다.</string>
 
