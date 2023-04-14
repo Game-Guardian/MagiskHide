@@ -109,7 +109,7 @@
     <string name="module_state_restore">Bərpa et</string>
     <string name="module_action_install_external">Yaddaşdan yüklə</string>
     <string name="update_available">Yeniləmə var</string>
-    <string name="suspend_text_riru">%1$s açıq olduğundan Magisk əlavəsi dayandırıldı</string>
+    <string name="suspend_text_revr">%1$s açıq olduğundan Magisk əlavəsi dayandırıldı</string>
     <string name="suspend_text_zygisk">%1$s qapalı olduğu üçün Magisk əlavəsi dayandırıldı</string>
     <string name="zygisk_module_unloaded">Zygisk əlavəsi uyğunsuzluq səbəbindən açılmadı</string>
     <string name="module_empty">Heçbir əlavə qurulmayıb</string>
