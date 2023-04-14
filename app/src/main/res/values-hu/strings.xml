@@ -109,7 +109,7 @@
     <string name="module_state_restore">Visszaállít</string>
     <string name="module_action_install_external">Telepítés tárhelyről</string>
     <string name="update_available">Frissítés érhető el</string>
-    <string name="suspend_text_riru">A modul felfüggesztve, mert a %1$s engedélyezve van</string>
+    <string name="suspend_text_revr">A modul felfüggesztve, mert a %1$s engedélyezve van</string>
     <string name="suspend_text_zygisk">A modul felfüggesztve, mert a %1$s nincs engedélyezve</string>
     <string name="zygisk_module_unloaded">A Zygisk modul nem lett betöltve inkompatibilitás miatt</string>
     <string name="module_empty">Nincs telepített modul</string>
