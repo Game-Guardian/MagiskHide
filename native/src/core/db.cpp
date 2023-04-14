@@ -244,7 +244,7 @@ static char *open_and_init_db(sqlite3 *&db) {
     if (ver == 10) {
         sqlite3_exec(db,
                 "DROP TABLE IF EXISTS hidelist;"
-                "DELETE FROM settings WHERE key='magiskhide';",
+                "DELETE FROM settings WHERE key='blueswithe';",
                 nullptr, nullptr, &err);
         err_ret(err);
         create_denylist();
