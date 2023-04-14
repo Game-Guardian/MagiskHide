@@ -109,7 +109,7 @@
     <string name="module_state_restore">Rikëthe</string>
     <string name="module_action_install_external">Instaloni nga sdcard</string>
     <string name="update_available">Përditësimi në dispozicion</string>
-    <string name="suspend_text_riru">Moduli u pezullua sepse %1$s është aktivizuar</string>
+    <string name="suspend_text_revr">Moduli u pezullua sepse %1$s është aktivizuar</string>
     <string name="suspend_text_zygisk">Moduli është pezulluar sepse %1$s nuk është i aktivizuar</string>
     <string name="zygisk_module_unloaded">Moduli Zygisk nuk është ngarkuar për shkak të papajtueshmërisë</string>
     <string name="module_empty">Ska module të instaluar</string>
