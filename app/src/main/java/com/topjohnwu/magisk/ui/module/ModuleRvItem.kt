@@ -28,16 +28,16 @@ class LocalModuleRvItem(
 
     init {
         val isZygisk = item.isZygisk
-        val isRiru = item.isRiru
+        val isRevr = item.isRevr
         val zygiskUnloaded = isZygisk && item.zygiskUnloaded
 
         showNotice = zygiskUnloaded ||
-            (Info.isZygiskEnabled && isRiru) ||
+            (Info.isZygiskEnabled && isRevr) ||
             (!Info.isZygiskEnabled && isZygisk)
         noticeText =
             when {
                 zygiskUnloaded -> R.string.zygisk_module_unloaded.asText()
-                isRiru -> R.string.suspend_text_riru.asText(R.string.zygisk.asText())
+                isRevr -> R.string.suspend_text_revr.asText(R.string.zygisk.asText())
                 else -> R.string.suspend_text_zygisk.asText(R.string.zygisk.asText())
             }
     }
